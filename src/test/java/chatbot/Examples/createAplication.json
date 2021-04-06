@@ -1,0 +1,23 @@
+{
+  "dataInshuredEvent":{
+    "EventType":"Дорожно-транспортное происшествие",
+    "DateTimeEvent":"2020-06-21T12:14:00",
+    "LocationEvent":{
+      "kladr":"Москворечье ул., 2, Москва, Россия, 115522",
+      "coords":"55.7447 37.6728"
+    }
+  },
+  "dataContractInshured":{
+    "ContractNumber":"МММ5021473101",
+    "Insurance":"ОСАГО",
+    "LastNameInsured":"Петров",
+    "NameInsured":"Петр"
+  },
+  "dataApplicant":{
+    "LastNameApplicant":"Петров",
+    "NameApplicant":"Петр",
+    "BirthdayApplicant":"1990-01-01",
+    "emailapplicant":"test@vsk.ru",
+    "PhoneApplicant":"79090010203"
+  }
+}

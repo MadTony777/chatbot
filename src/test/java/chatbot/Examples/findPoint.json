@@ -1,0 +1,12 @@
+{
+  "LocationEvent":"РОССИЯ, г.Москва, ул.(место) Малая Грузинская, д. 20",
+  "GPSEvent":"37.572288, 55.764961",
+  "CarBrand":"Toyota",
+  "Insurance":"КАСКО ФЛ",
+  "EventType":"бой стекол",
+  "Radius":500,
+  "pointType":"СТОА_КА",
+  "CarModel":"RAV 4",
+  "CarYearManufacture":2018,
+  "EventCode":"KOD_STR_N_14"
+}

@@ -1,0 +1,15 @@
+{
+  "ClaimNumber":"6889252",
+  "IdServiceStation":"3169",
+  "Docs":[
+    {
+      "document":{
+        "documentType":"Паспорт",
+        "extension":"pdf",
+        "portalId":"4627C7DB-0525-4955-9566-48239B3EF899",
+        "IddocumentType":8
+      }
+    }
+  ],
+  "UTU":"2"
+}
